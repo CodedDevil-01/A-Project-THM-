@@ -1,3 +1,7 @@
+# Created by CodedDevil-01
+# Created on 07/10/2020  13:20:40
+# mouselogger version 1.0.12
+
 from pynput.mouse import Listener
 import logging
 
