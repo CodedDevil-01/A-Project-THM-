@@ -5,3 +5,11 @@ http://stylesuxx.github.io/steganography/
 
 Don't use steghide as it may throw some errors ..
 
+The pics that has secret messages ..
+
+1.AVENGERS.png
+
+2.justice_league.png
+
+
+
