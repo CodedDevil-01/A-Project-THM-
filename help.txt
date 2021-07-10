@@ -2,3 +2,6 @@ There are some steganography challenges ..
 Use the below link to decode the secret message
 
 http://stylesuxx.github.io/steganography/
+
+Don't use steghide as it may throw some errors ..
+
